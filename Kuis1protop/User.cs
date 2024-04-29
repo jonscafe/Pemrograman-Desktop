@@ -1,4 +1,4 @@
-﻿namespace Pertemuan4
+namespace Kuis1protop
 {
     internal class User
     {
