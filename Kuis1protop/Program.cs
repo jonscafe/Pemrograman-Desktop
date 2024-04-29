@@ -21,7 +21,7 @@ class Program
         Console.WriteLine("Masukkan password:");
         string password = Console.ReadLine();
 
-        if (username == "admin" && password == "admin")
+        if (username == "admin" && password == "1234")
         {
             Console.WriteLine("Login berhasil!\n");
 
