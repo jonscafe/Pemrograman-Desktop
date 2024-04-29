@@ -1,0 +1,14 @@
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\bin\Debug\net8.0\Kuis1protop.exe
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\bin\Debug\net8.0\Kuis1protop.deps.json
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\bin\Debug\net8.0\Kuis1protop.runtimeconfig.json
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\bin\Debug\net8.0\Kuis1protop.dll
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\bin\Debug\net8.0\Kuis1protop.pdb
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\Kuis1protop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\Kuis1protop.AssemblyInfoInputs.cache
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\Kuis1protop.AssemblyInfo.cs
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\Kuis1protop.csproj.CoreCompileInputs.cache
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\Kuis1protop.dll
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\refint\Kuis1protop.dll
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\Kuis1protop.pdb
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\Kuis1protop.genruntimeconfig.cache
+C:\Users\M S I\source\repos\Kuis1protop\Kuis1protop\obj\Debug\net8.0\ref\Kuis1protop.dll
